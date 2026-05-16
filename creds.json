@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "picklist-project-495611",
+  "private_key_id": "1b01c69190f98019687f19860e001af3c702df78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSqj+VreWCfMD+\nTlQ0ZOyL1g5iG3Ijf+50Udl4KBojAKgWvUziCNJoYZ5/a4sLU/KIiJ1NaHoaOEXR\n0TTV1EuoICl3f1xv9N1sxY+jkbzewNk2LvGi8Vt4mlAwG98sTbJqlV/NkjXx/otF\nBXdbXu/4KACsGb8CJwyMZBFVFVCYWSrNKYo8lvDB0IGKWVpT0tau6yUWshqlbGtH\nOiRyPBLj9gnyOtj8R8bbsEiaT6qmkDe6ULFhmyZDPf7xgFlJSaxRvcZ1VhFRNGeC\njNB28745uA7BbP0Vsl0J8+/NEva6R3aTdJQuka6hTNzrjH0i8hJJS3MgAhurl2li\nGm9xKnZ3AgMBAAECggEAFqGciBdw5wZA83D1wdUvxkv+KpL5PZASTWO3oZ1pRWZe\nKGc4ubWp6PXHwbeLbfGcRgerInQ9XdC6y3IWo3wVjp+55LEFfK+JFBTbO/69lA6S\npyv+4HreUUP+plRwMsG8D5AxhROWgQNP8d/G9UVrMTUW8WYoq3IHepOLeyD5kgwc\nRqC97MwrAB0q7ms0tlpUpCestMKK07OPLtXflbdd+LaOFpqxnva1u2sy/ytSoO03\nCxswMzEL7TpXbrbNb1iPS7lcJppTaA62RGUWPJis8DkceF94pf4grp5mAAnCLoyo\nSeBUauxoc+NppszIPbavPGfc9ywujxMTcd2Q8BqYnQKBgQDzG6WzzxZIrTRqgqNy\nE5DB01F/LnJOOWKtWd2Mds9D53Gm3vf6QhwDEKLWoQlDWHNzJ0wQBxxb4jR1Dv3n\nwwdJb3dEF51wZhREIzCrJxmhgPpsj+gTdMRdsVOztddYJqVw7SIF3MpWvFYP8KnB\nj7iuXodMWNFa9iy4oDFRqaRsXQKBgQDd1iqRvYL9s1Z5nraJ7aTt4RjvW+LyiaiE\nQyv2swzToz/xzgT+VmJak+nZzriRAI9Xtz5S+0sGunnHg8fL95jPs8OT4BORNvhr\ni5k1mFKhMEtKCWDzZJQWoGGr1KDSiyqnlRnptCjsN/Hj+Hz+NPX6jsA/UgxGMu4i\njS/KivHg4wKBgDMHDpTbVtYSZPomSaBcMvo8HNMRMLTynp+8SSB+n6qlHdnk2zAQ\nSEjsaQGb85HLMxBsoy6KD43JwTEA4JKRASqM1v/X5Rf+lSpoKIMERgD8TZQT8KaE\nz+LKocMK3BSIqBk37PhGC8KA7Z+S6E7Ul/MhrEx+KBNrsJ9gIHn/nZ+RAoGBANcy\n46juBxzF1KW26a1z9AMv0lig8tAF6owj/Yoct9y3CVkxWnbApjjoNHsupq1DtcqJ\n4NPvIyEr1OdPV4rubjdPU/Mn9NNyWBs8GSx8z+u+RctUvdBfSamJfDaM1lZo2sAn\nTDQCqZA91VIpxFd2WQjvYmAK4A1ZatnpzOrXTz2xAoGBAIxzNfeU0iqAwjRuoRK0\nQ8xNdjG5zt52rTif0IZcKWDgpqy9ndBN2xsAfkZriZv9euyK9JtAsj4NIoetsDSk\nHIAwaCxA2rJGxmgvgAIiOaAjVlOrM7Iz/R7ZSpTl5wdduUJErUgaAkWUKCykxV1z\nIaIVvAGK0nf3aLgOvzfrhwwR\n-----END PRIVATE KEY-----\n",
+  "client_email": "picklist-bot@picklist-project-495611.iam.gserviceaccount.com",
+  "client_id": "105434837206193666798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/picklist-bot%40picklist-project-495611.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
